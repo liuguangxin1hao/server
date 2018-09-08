@@ -1,5 +1,5 @@
 microserviceConfig:
-   miscroservice-FMIS:
+   microservice-FMIS:
     JZFMISSVR:
       context: EnterpriseServer
       ObjectName:
