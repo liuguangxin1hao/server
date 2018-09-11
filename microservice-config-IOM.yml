@@ -1,0 +1,13 @@
+microserviceConfig:
+   microservice-FMIS:
+    JZFMISESPSVR:
+      context: EnterpriseServer
+      ObjectName:
+        SecurityObject:
+          method: initApplication
+  
+
+
+
+
+
