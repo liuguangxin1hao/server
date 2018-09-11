@@ -2,7 +2,7 @@ microserviceConfig:
    microservice-FMIS:
     JZFMISSVR:
       context: EnterpriseServer
-      ObjectName:
+      objectName:
         SecurityObject:
           method: Login
    
