@@ -2,13 +2,13 @@ microserviceConfig:
    microservice-FMIS:
     JZFMISESPSVR:
       context: EnterpriseServer
-      ObjectName:
+      objectName:
         SecurityObject:
           method: initApplication
    microservice-KJDA:        
     KJDAServer:
       context: EnterpriseServer
-      ObjectName:
+      objectName:
         SecurityObject:
           method: getUserFunctionLimit
   
