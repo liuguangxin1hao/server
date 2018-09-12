@@ -5,6 +5,12 @@ microserviceConfig:
       ObjectName:
         SecurityObject:
           method: initApplication
+   microservice-KJDA:        
+    KJDAServer:
+      context: EnterpriseServer
+      ObjectName:
+        SecurityObject:
+          method: getUserFunctionLimit
   
 
 
